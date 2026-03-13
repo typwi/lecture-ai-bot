@@ -40,7 +40,7 @@
 ### Шаг 1: Клонирование репозитория
 
 ```bash
-git clone https://github.com/ваш-аккаунт/ai-lecture-bot.git
+git clone https://github.com/ваш-аккаунт/lecture-ai-bot.git
 cd ai-lecture-bot
 
 ```
